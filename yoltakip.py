@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture("video8-1.mp4")
+cap = cv2.VideoCapture("videoname.mp3")
 
 while True:
     ret, frame = cap.read()
